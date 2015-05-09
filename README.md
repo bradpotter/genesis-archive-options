@@ -1,6 +1,6 @@
 # Genesis Archive Options
 
-WordPress plugin that adds options to the Genesis Framework Archive pages.
+WordPress plugin that adds options on Archive admin pages for the Genesis Framework.
 
 ## Requirements
  * WordPress 4.0
