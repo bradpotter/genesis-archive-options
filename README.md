@@ -39,6 +39,6 @@ Copyright 2015 [Brad Potter](http://bradpotter.com/)
 
 Some code is inspired by code from the Genesis Framework
 
-## Contributers
+## Contributors
 
 Thanks to [hellofromTonya](http://wpdevelopersclub.com) for improving the code.
